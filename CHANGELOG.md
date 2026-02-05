@@ -61,7 +61,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - **Triple Repository Strategy**: Integration with new GitLab PM/PMO Tools repository for expanded distribution
-- GitLab PM/PMO repository configuration (https://gitlab.divante.pl/pm-pmo-tools/scrum-master-tools.git)
+- GitLab PM/PMO repository configuration
 - Enhanced git workflow documentation for managing three repositories (GitHub dev + 2 GitLab production)
 
 ### Changed

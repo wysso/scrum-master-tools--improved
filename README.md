@@ -50,11 +50,11 @@ Advanced Jira data analysis tools for Scrum Masters and development teams with c
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mrozmk/scrummastertool.git
+   git clone link
    or
-   git clone ssh://git@gitlab.divante.pl:60022/tim/scrum-master-tool.git
+   git clone ssh: link
    or
-   git clone https://gitlab.divante.pl/tim/scrum-master-tool.git
+   git clone link
    cd scrummastertool
    ```
    
@@ -84,7 +84,7 @@ Advanced Jira data analysis tools for Scrum Masters and development teams with c
    cp .env.example .env
    ```
    Edit `.env` file and configure your Jira settings:
-   - `JIRA_BASE_URL`: Your Jira instance URL (eg. https://jira.cloudflight.io/)
+   - `JIRA_BASE_URL`: Your Jira instance URL (eg. https://jira./)
    - `JIRA_PERSONAL_TOKEN`: Your Jira Personal Access Token
    - `JIRA_RESPONSIBLE_FIELD`: Update with your instance's custom field ID for responsible person (eg. customfield_11000)
    - Other settings can be left as defaults or customized as needed

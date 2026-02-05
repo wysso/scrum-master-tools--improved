@@ -61,7 +61,7 @@ UV provides fast Python package management and is the preferred development envi
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone repository
-git clone https://github.com/mrozmk/scrummastertool.git
+git clone https://github.com/scrum-master-tools--improved.git
 cd scrummastertool
 
 # Create and activate environment
@@ -76,7 +76,7 @@ uv run python smt.py
 
 ```bash
 # Clone repository
-git clone https://github.com/mrozmk/scrummastertool.git
+git clone https://github.com/scrum-master-tools--improved.git
 cd scrummastertool
 
 # Create virtual environment
