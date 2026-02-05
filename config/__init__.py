@@ -1,0 +1,3 @@
+"""
+Konfiguracja aplikacji ScrumMaster Tool
+"""
